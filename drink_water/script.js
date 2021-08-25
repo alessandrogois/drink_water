@@ -1,1 +1,0 @@
-const cup = document.getElementById(cup)
